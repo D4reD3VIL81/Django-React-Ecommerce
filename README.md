@@ -1,5 +1,5 @@
 # Ecommerce Website With Django + React
-An ecommerce website using Django (Back-end), React (Front-end), DjangoRestAPI and PostgreSQL (Database). 
+An ecommerce website using Django (Back-end), React (Front-end), DjangoRestFramework and PostgreSQL (Database). 
 
 ## Features
 - Full featured shopping cart
@@ -43,4 +43,5 @@ After django you should install `yarn` or `npm` and start the project in `ecomme
 npm start
 ```
 Now you can use the project on http://localhost:3000/.
+
 Enjoy :)
